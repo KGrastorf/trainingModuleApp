@@ -1,0 +1,107 @@
+body {
+  background-image: url("http://spliffmobile.com/ultra-hd-wallpapers/download/hd-m&ms-wallpaper.png");
+
+  font-family: 'Sansita One', cursive;
+}
+
+img .MM {
+  width: 35vw;
+  height: auto;
+}
+
+.buttonH {
+  height: 65px;
+  width: 55px;
+  background-color: blue;
+  font-family: 'Sansita One', cursive;
+  font-size: 15px;
+  border-radius: 50%;
+  text-shadow: 1px 1px white;
+}
+
+.button1 {
+  height: 65px;
+  width: 50px;
+  background-color: green;
+  font-family: 'Sansita One', cursive;
+  font-size: 15px;
+  border-radius: 50%;
+  text-shadow: 1px 1px white;
+}
+
+.button2 {
+  height: 65px;
+  width: 50px;
+  background-color: orange;
+  font-family: 'Sansita One', cursive;
+  font-size: 15px;
+  border-radius: 50%;
+  text-shadow: 1px 1px white;
+}
+
+.button3 {
+  height: 55px;
+  width: 50px;
+  background-color: red;
+  font-family: 'Sansita One', cursive;
+  font-size: 15px;
+  border-radius: 50%;
+  text-shadow: 1px 1px white;
+}
+
+.button4 {
+  height: 50px;
+  width: 50px;
+  background-color: yellow;
+  font-family: 'Sansita One', cursive;
+  font-size: 15px;
+  border-radius: 50%;
+  text-shadow: 1px 1px white;
+}
+
+.img1 {
+  width: 50vw;
+  height: auto;
+  display: inline-block;
+  float: right;
+
+
+}
+
+.img {
+  width: 50vw;
+  height: auto;
+  display: inline-block;
+  float: right;
+
+}
+img {
+  height: 500px;
+  border: 25px solid white;
+  margin-left: 150px;
+}
+
+.left {
+  width: 40vw;
+  height: auto;
+  display: inline-block;
+  float: left;
+  text-align: center;
+  color: white;
+  text-shadow: 3px 3px black;
+  margin: 50px 30px;
+}
+
+h1 {
+  color: white;
+  text-shadow: 5px 5px black;
+  width: 45vw;
+  font-size: 70px;
+}
+ h3 {
+   font-size: 40px;
+ }
+
+ h4 {
+   font-size: 30px;
+ }
